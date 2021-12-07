@@ -44,7 +44,7 @@ Implemented the nlpaug with different Artificial Neural Network and best results
 [Notebook](https://github.com/Siddhi268/NLP/blob/main/NLP%20Project(Handling%20Imbalance%20Text%20Dataset)/Data_augmentation_using_nlpaug%20.ipynb)
 
 
-2.Word Embedding:
+2.WORD EMBEDDING:
 
 Word embedding is a language modelling technique to represent the words or phrases as vectors. The words are grouped together to get similar representation for words with similar meaning. The word embedding learns the relationship between the words to construct the representation. This is achieved by the various methods like co-occurrence matrix, probabilistic modelling, neural networks.
 
