@@ -40,8 +40,8 @@ Implemented the nlpaug with different Artificial Neural Network and best results
 ![result1](https://user-images.githubusercontent.com/73767113/145040180-11ad017a-7722-4be4-85b1-fa5707f9d701.jpg)
 
 
-## Link to Jupyter Notebook in Repository
-[Notebook](https://github.com/radadiyamohit81/Fraud-Detection-on-Credit-Card-Dataset/blob/master/Credit%20card%20Fraud%20Detection.ipynb)
+#### Link to Jupyter Notebook in Repository
+[Notebook](https://github.com/Siddhi268/NLP/blob/main/NLP%20Project(Handling%20Imbalance%20Text%20Dataset)/Data_augmentation_using_nlpaug%20.ipynb)
 
 
 2.Word Embedding:
@@ -54,5 +54,5 @@ In word embedding ,i have implemented pre-trained word embedding i.e.Glove.And t
 ![result2](https://user-images.githubusercontent.com/73767113/145040309-89ecc09e-473c-4f38-8ac7-5733d75e8fdb.jpg)
 
 
-## Link to Jupyter Notebook in Repository
-[Notebook](https://github.com/radadiyamohit81/Fraud-Detection-on-Credit-Card-Dataset/blob/master/Credit%20card%20Fraud%20Detection.ipynb)
+#### Link to Jupyter Notebook in Repository
+[Notebook](https://github.com/Siddhi268/NLP/blob/main/NLP%20Project(Handling%20Imbalance%20Text%20Dataset)/Data_augmentation_using_word_embedding.ipynb)
