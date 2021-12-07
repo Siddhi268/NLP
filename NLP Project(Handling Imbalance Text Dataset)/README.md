@@ -37,15 +37,22 @@ From the above three different type we have implemented word level augmentation 
 Implemented the nlpaug with different Artificial Neural Network and best results are obtained by Bidirectional LSTM.
 
 
+![result1](https://user-images.githubusercontent.com/73767113/145040180-11ad017a-7722-4be4-85b1-fa5707f9d701.jpg)
+
 
 ## Link to Jupyter Notebook in Repository
 [Notebook](https://github.com/radadiyamohit81/Fraud-Detection-on-Credit-Card-Dataset/blob/master/Credit%20card%20Fraud%20Detection.ipynb)
 
 
-2.Word Embedding
+2.Word Embedding:
+
 Word embedding is a language modelling technique to represent the words or phrases as vectors. The words are grouped together to get similar representation for words with similar meaning. The word embedding learns the relationship between the words to construct the representation. This is achieved by the various methods like co-occurrence matrix, probabilistic modelling, neural networks.
 
 In word embedding ,i have implemented pre-trained word embedding i.e.Glove.And the results of neural network is as below:
+
+
+![result2](https://user-images.githubusercontent.com/73767113/145040309-89ecc09e-473c-4f38-8ac7-5733d75e8fdb.jpg)
+
 
 ## Link to Jupyter Notebook in Repository
 [Notebook](https://github.com/radadiyamohit81/Fraud-Detection-on-Credit-Card-Dataset/blob/master/Credit%20card%20Fraud%20Detection.ipynb)
